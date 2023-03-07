@@ -15,7 +15,7 @@
 
 I am 28 years old. I worked as a civil engineer, but this job didn't bring me satisfaction and I didn't see a future for myself. Now my goal is to master the modern profession of Frontend Developer and do what I'm really interested in. I want to be confident in my future.
 
-### My strengths:
+**My strengths:**
 + responsible
 + gregariuos
 + a team-player
