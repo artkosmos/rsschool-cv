@@ -68,3 +68,8 @@ console.log(combine(objA, objB, objC, objD)) // {a: 18, b: 20, c: 39, d: 14, e: 
     + [JavaScript](https://www.udemy.com/share/105CnW/ "The link to the course")
   + Stepik
     + [Python for begginers](https://stepik.org/course/58852/promo "The link to the course")
+
+## **English**
+------
+**A1-A2** (in progress)
+I finished starter courses(~A1) and now I'm learning language at the next stage A1-A2
