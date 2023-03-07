@@ -57,3 +57,14 @@ function combine (...arg) {
 
 console.log(combine(objA, objB, objC, objD)) // {a: 18, b: 20, c: 39, d: 14, e: 8}
 ```
+
+## **Education**
+------
++ **Yanka Kupala State University of Grodno**
+  + Industrial and civil engineering major
++ **Courses**
+  + Udemy
+    + [HTML/CSS/Web development](https://www.udemy.com/share/101Wy2/ "The link to the course")
+    + [JavaScript](https://www.udemy.com/share/105CnW/ "The link to the course")
+  + Stepik
+    + [Python for begginers](https://stepik.org/course/58852/promo "The link to the course")
