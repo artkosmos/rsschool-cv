@@ -1,9 +1,9 @@
 ------
 ![my photo](myphoto.jpg)
 # **Artsiom Kasmatskou**
-------
+
 ## **My contact info**
-------
+
 * **Location**: Grodno, Belarus
 * **Phone number**: +375 (29) 1282922
 * **E-mail**: artemkosmatkov1994@gmail.com
@@ -12,7 +12,7 @@
 * **RSSchool server nickname**: Artem (@artkosmos)
 
 ## **About me**
-------
+
 I am 28 years old. I worked as a civil engineer, but this job didn't bring me satisfaction and I didn't see a future for myself. Now my goal is to master the modern profession of Frontend Developer and do what I'm really interested in. I want to be confident in my future.
 
 ### My strengths:
@@ -22,7 +22,7 @@ I am 28 years old. I worked as a civil engineer, but this job didn't bring me sa
 + hard-working
 
 ## **Skills**
-------
+
 + HTML
 + CSS (SASS, Bootstrap)
 + Figma
@@ -31,7 +31,7 @@ I am 28 years old. I worked as a civil engineer, but this job didn't bring me sa
 + Python (basic knowledge)
 
 ## **Code example**
-------
+
 ```
 /* Your task is to write a function that takes two or more objects and returns
 a new object which combines all the input objects.
@@ -60,7 +60,7 @@ console.log(combine(objA, objB, objC, objD)) // {a: 18, b: 20, c: 39, d: 14, e: 
 ```
 
 ## **Education**
-------
+
 + **Yanka Kupala State University of Grodno**
   + Industrial and civil engineering major
 + **Courses**
@@ -71,6 +71,8 @@ console.log(combine(objA, objB, objC, objD)) // {a: 18, b: 20, c: 39, d: 14, e: 
     + [Python for begginers](https://stepik.org/course/58852/promo "The link to the course")
 
 ## **English**
-------
-**A1-A2** (in progress)
+
+**A1-A2** (in progress)\
 I finished starter courses(~A1) and now I'm learning language at the next stage A1-A2
+
+------
