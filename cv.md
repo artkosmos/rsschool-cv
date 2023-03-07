@@ -19,3 +19,12 @@ I am 28 years old. I worked as a civil engineer, but this job didn't bring me sa
 + gregariuos
 + a team-player
 + hard-working
+
+## **Skills**
+------
++ HTML
++ CSS (SASS, Bootstrap)
++ Figma
++ Git (GitHub)
++ JavaSript (basic knowledge)
++ Python (basic knowledge)
