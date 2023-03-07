@@ -1,4 +1,5 @@
 ------
+![my photo](myphoto.jpg)
 # **Artsiom Kasmatskou**
 ------
 ## **My contact info**
